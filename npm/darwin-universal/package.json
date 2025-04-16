@@ -1,0 +1,15 @@
+{
+  "name": "@vladfrangu-dev/compression-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "compression.darwin-universal.node",
+  "files": [
+    "compression.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

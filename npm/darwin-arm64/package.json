@@ -1,0 +1,18 @@
+{
+  "name": "@vladfrangu-dev/compression-darwin-arm64",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "compression.darwin-arm64.node",
+  "files": [
+    "compression.darwin-arm64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

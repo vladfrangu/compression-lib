@@ -1,0 +1,3 @@
+# `@vladfrangu-dev/compression-linux-riscv64-gnu`
+
+This is the **riscv64gc-unknown-linux-gnu** binary for `@vladfrangu-dev/compression`

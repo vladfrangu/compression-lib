@@ -1,0 +1,3 @@
+# `@vladfrangu-dev/compression-freebsd-x64`
+
+This is the **x86_64-unknown-freebsd** binary for `@vladfrangu-dev/compression`
