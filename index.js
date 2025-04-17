@@ -310,6 +310,6 @@ if (!nativeBinding) {
   throw new Error(`Failed to load native binding`)
 }
 
-const { Decompressor } = nativeBinding
+const { ZlibDecompressor } = nativeBinding
 
-module.exports.Decompressor = Decompressor
+module.exports.ZlibDecompressor = ZlibDecompressor
