@@ -1,21 +1,21 @@
 {
-	"name": "@vladfrangu-dev/compression-android-arm-eabi",
-	"version": "0.0.1",
-	"os": [
-		"android"
-	],
-	"cpu": [
-		"arm"
-	],
-	"main": "compression.android-arm-eabi.node",
-	"files": [
-		"compression.android-arm-eabi.node"
-	],
-	"license": "MIT",
-	"engines": {
-		"node": ">= 10"
-	},
-	"repository": {
-		"url": "https://github.com/vladfrangu/compression-lib"
-	}
+  "name": "@vladfrangu-dev/compression-android-arm-eabi",
+  "version": "0.0.2",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "compression.android-arm-eabi.node",
+  "files": [
+    "compression.android-arm-eabi.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": {
+    "url": "https://github.com/vladfrangu/compression-lib"
+  }
 }
