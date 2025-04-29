@@ -6,19 +6,18 @@
 	"napi": {
 		"name": "compression",
 		"triples": {
+			"defaults": true,
 			"additional": [
+				"x86_64-unknown-linux-musl",
+				"aarch64-unknown-linux-gnu",
+				"i686-pc-windows-msvc",
+				"armv7-unknown-linux-gnueabihf",
 				"aarch64-apple-darwin",
 				"aarch64-linux-android",
-				"aarch64-unknown-linux-gnu",
+				"x86_64-unknown-freebsd",
 				"aarch64-unknown-linux-musl",
 				"aarch64-pc-windows-msvc",
-				"armv7-unknown-linux-gnueabihf",
-				"armv7-unknown-linux-musleabihf",
-				"x86_64-unknown-linux-musl",
-				"x86_64-unknown-freebsd",
-				"armv7-linux-androideabi",
-				"universal-apple-darwin",
-				"riscv64gc-unknown-linux-gnu"
+				"armv7-linux-androideabi"
 			]
 		}
 	},
@@ -35,7 +34,8 @@
 		"build:debug": "napi build --platform",
 		"prepublishOnly": "napi prepublish -t npm",
 		"universal": "napi universal",
-		"version": "napi version"
+		"version": "napi version",
+		"test": "echo Tests wen"
 	},
 	"packageManager": "yarn@4.9.1"
 }
