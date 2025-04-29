@@ -1,18 +1,21 @@
 {
-  "name": "@vladfrangu-dev/compression-android-arm64",
-  "version": "0.0.1",
-  "os": [
-    "android"
-  ],
-  "cpu": [
-    "arm64"
-  ],
-  "main": "compression.android-arm64.node",
-  "files": [
-    "compression.android-arm64.node"
-  ],
-  "license": "MIT",
-  "engines": {
-    "node": ">= 10"
-  }
+	"name": "@vladfrangu-dev/compression-android-arm64",
+	"version": "0.0.1",
+	"os": [
+		"android"
+	],
+	"cpu": [
+		"arm64"
+	],
+	"main": "compression.android-arm64.node",
+	"files": [
+		"compression.android-arm64.node"
+	],
+	"license": "MIT",
+	"engines": {
+		"node": ">= 10"
+	},
+	"repository": {
+		"url": "https://github.com/vladfrangu/compression-lib"
+	}
 }

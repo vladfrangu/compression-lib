@@ -28,6 +28,9 @@
 	"engines": {
 		"node": ">= 18"
 	},
+	"repository": {
+		"url": "https://github.com/vladfrangu/compression-lib"
+	},
 	"scripts": {
 		"artifacts": "napi artifacts",
 		"build": "napi build --platform --release",

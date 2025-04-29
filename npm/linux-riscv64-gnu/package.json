@@ -1,21 +1,24 @@
 {
-  "name": "@vladfrangu-dev/compression-linux-riscv64-gnu",
-  "version": "0.0.0",
-  "os": [
-    "linux"
-  ],
-  "cpu": [
-    "riscv64"
-  ],
-  "main": "compression.linux-riscv64-gnu.node",
-  "files": [
-    "compression.linux-riscv64-gnu.node"
-  ],
-  "license": "MIT",
-  "engines": {
-    "node": ">= 10"
-  },
-  "libc": [
-    "glibc"
-  ]
+	"name": "@vladfrangu-dev/compression-linux-riscv64-gnu",
+	"version": "0.0.0",
+	"os": [
+		"linux"
+	],
+	"cpu": [
+		"riscv64"
+	],
+	"main": "compression.linux-riscv64-gnu.node",
+	"files": [
+		"compression.linux-riscv64-gnu.node"
+	],
+	"license": "MIT",
+	"engines": {
+		"node": ">= 10"
+	},
+	"libc": [
+		"glibc"
+	],
+	"repository": {
+		"url": "https://github.com/vladfrangu/compression-lib"
+	}
 }

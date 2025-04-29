@@ -1,18 +1,21 @@
 {
-  "name": "@vladfrangu-dev/compression-linux-arm-musleabihf",
-  "version": "0.0.0",
-  "os": [
-    "linux"
-  ],
-  "cpu": [
-    "arm"
-  ],
-  "main": "compression.linux-arm-musleabihf.node",
-  "files": [
-    "compression.linux-arm-musleabihf.node"
-  ],
-  "license": "MIT",
-  "engines": {
-    "node": ">= 10"
-  }
+	"name": "@vladfrangu-dev/compression-linux-arm-musleabihf",
+	"version": "0.0.0",
+	"os": [
+		"linux"
+	],
+	"cpu": [
+		"arm"
+	],
+	"main": "compression.linux-arm-musleabihf.node",
+	"files": [
+		"compression.linux-arm-musleabihf.node"
+	],
+	"license": "MIT",
+	"engines": {
+		"node": ">= 10"
+	},
+	"repository": {
+		"url": "https://github.com/vladfrangu/compression-lib"
+	}
 }
