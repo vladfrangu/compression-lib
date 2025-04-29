@@ -29,7 +29,7 @@
 		"node": ">= 18"
 	},
 	"repository": {
-		"url": "https://github.com/vladfrangu/compression-lib"
+		"url": "git+https://github.com/vladfrangu/compression-lib.git"
 	},
 	"scripts": {
 		"artifacts": "napi artifacts",
