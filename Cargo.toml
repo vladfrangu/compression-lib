@@ -2,6 +2,7 @@
 edition = "2021"
 name = "vladfrangu-dev_compression"
 version = "0.0.0"
+authors = ["Vlad Frangu <me@vladfrangu.dev>"]
 
 [lib]
 crate-type = ["cdylib"]
